@@ -1,13 +1,14 @@
-Olá 👋 trabalho com Análise de Dados e Machine Learning
+Olá 👋 Me chamo Rodrigo
 ===============================
-Sou apaixonado por dados e busco constantemente transformar informações em insights acionáveis para impulsionar o crescimento dos negócios.
+Ciência de Dados | Machine Learning | IA
 ------------
-Com mais de 7 anos de experiência consolidada em suporte técnico, análise de sistemas e atualmente como analista de dados. Gero valor liderando projetos de ponta a ponta, da coleta ao deploy, entregando soluções de alto impacto para empresas dos setores de saúde e varejo.
+Sou apaixonado por dados e busco constantemente transformar informações em insights acionáveis para impulsionar o crescimento dos negócios. Com mais de 7 anos de experiência consolidada em suporte técnico, análise de sistemas e atualmente como analista de dados. Gero valor liderando projetos de ponta a ponta, da coleta ao deploy, entregando soluções de alto impacto para empresas dos setores de saúde e varejo.
 
 * 🌍  Moro no Rio Grande do Sul, Brasil
-* 🧠  Atualmente estou aprofundando meus conhecimentos em ferramentas de visualização de dados, como Power BI
-* 🤝  Estou procurando colaborar em projetos de inteligência de dados na área da saúde e automação de processos com Python
+* 🧠  Curso Pós-Gradução em Ciência de Dados e IA e estudo JavaScript
+* 🚀  Atualmente estou desenvolvendo um dashborad de indicadores hospitalares [Saturn Analytics](https://saturn-analytics.vercel.app)
 * 🖥️  Acesse meu portfólio [clicando aqui](http://dsrodrigovieira.github.io/portfolio)
+* 🤝  Procuro colaborar em projetos de inteligência de dados na área da saúde que envolvam visão computacional e diagnóstico precoce, além de automação de processos com Python.
 * ✉️  Você pode entrar em contato comigo pelo email [dsrodrigovieira@gmail.com](mailto:dsrodrigovieira@gmail.com)
 
 ### Skills
@@ -31,6 +32,15 @@ Com mais de 7 anos de experiência consolidada em suporte técnico, análise de 
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+  </a>
 </p>
 
 
