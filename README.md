@@ -1,6 +1,6 @@
 Olá 👋 Me chamo Rodrigo
 ===============================
-Ciência de Dados | Machine Learning | IA
+Análise e Desenvolvimento de Sistemas | Ciência de Dados
 ------------
 Sou apaixonado por dados e busco constantemente transformar informações em insights acionáveis para impulsionar o crescimento dos negócios. Com mais de 7 anos de experiência consolidada em suporte técnico, análise de sistemas e atualmente como analista de dados. Gero valor liderando projetos de ponta a ponta, da coleta ao deploy, entregando soluções de alto impacto para empresas dos setores de saúde e varejo.
 
