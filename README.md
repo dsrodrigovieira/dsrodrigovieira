@@ -2,13 +2,14 @@ Olá 👋 Me chamo Rodrigo
 ===============================
 Análise e Desenvolvimento de Sistemas | Ciência de Dados
 ------------
-Sou apaixonado por dados e busco constantemente transformar informações em insights acionáveis para impulsionar o crescimento dos negócios. Com mais de 7 anos de experiência consolidada em suporte técnico, análise de sistemas e atualmente como analista de dados. Gero valor liderando projetos de ponta a ponta, da coleta ao deploy, entregando soluções de alto impacto para empresas dos setores de saúde e varejo.
+Formado em Análise e Desenvolvimento de Sistemas, atuo há mais de 7 anos na área de TI com foco em Análise de Sistemas e Suporte Técnico. Tive a oportunidade de transitar em empresas nas áreas de desenvolvimento de software e da saúde hospitalar.
+Além da área de desenvolvimento (backend), tenho familiaridade com a Ciência de Dados, criando soluções envolvendo Análise Descritiva, Análise Preditiva e Machine Learning.
 
 * 🌍  Moro no Rio Grande do Sul, Brasil
-* 🧠  Curso Pós-Gradução em Ciência de Dados e IA e estudo JavaScript
+* 🧠  Curso Pós-Gradução em Ciência de Dados e IA e estudo JavaScript/Node.js para Backend
 * 🚀  Atualmente estou desenvolvendo um dashborad de indicadores hospitalares [Saturn Analytics](https://saturn-analytics.vercel.app)
 * 🖥️  Acesse meu portfólio [clicando aqui](http://dsrodrigovieira.github.io/portfolio)
-* 🤝  Procuro colaborar em projetos de inteligência de dados na área da saúde que envolvam visão computacional e diagnóstico precoce, além de automação de processos com Python.
+* 🤝  Procuro colaborar em projetos de Backend (API Rest) e também de ciência de dados na área da saúde que envolvam visão computacional e diagnóstico precoce.
 * ✉️  Você pode entrar em contato comigo pelo email [dsrodrigovieira@gmail.com](mailto:dsrodrigovieira@gmail.com)
 
 ### Skills
