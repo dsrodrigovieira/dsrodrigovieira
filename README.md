@@ -2,8 +2,7 @@ Olá 👋 Me chamo Rodrigo
 ===============================
 Análise e Desenvolvimento de Sistemas | Ciência de Dados
 ------------
-Formado em Análise e Desenvolvimento de Sistemas com especialização em Ciência de Dados e IA, atuo há mais de 7 anos na área de TI com foco em Análise de Sistemas e Suporte Técnico. Tive a oportunidade de transitar em empresas nas áreas de desenvolvimento de software, da saúde hospitalar e varejo
-Além da área de desenvolvimento (backend), tenho familiaridade com a Ciência de Dados, criando soluções envolvendo Análise Descritiva, Análise Preditiva e Machine Learning.
+Formado em Análise e Desenvolvimento de Sistemas com especialização em Ciência de Dados e IA, atuo há mais de 7 anos na área de TI com foco em Análise de Sistemas e Suporte Técnico. Tive a oportunidade de transitar em empresas nas áreas de desenvolvimento de software, da saúde hospitalar e varejo. Além da área de desenvolvimento (backend), tenho familiaridade com a Ciência de Dados, criando soluções envolvendo Análise Descritiva, Análise Preditiva e Machine Learning.
 
 * 🌍  Moro no Rio Grande do Sul, Brasil
 * 🧠  Estudo JavaScript/Node.js e DevOps
